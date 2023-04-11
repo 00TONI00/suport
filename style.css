@@ -1,3 +1,7 @@
+.body
+{
+    background-color: lightslategrey;
+}
 .caixa-1 
 {
     width: 50%;
@@ -18,7 +22,6 @@
   {
     padding-left: 53%;
     font-size: 48px;
-    background-color: lightslategrey;
   }
   
   
