@@ -19,3 +19,21 @@ suport-suport
     font-size: 20px;
     text-align: center;
 }
+
+
+
+
+
+
+
+
+
+.caja3 {
+    width: 50%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ccc;
+  }
+  
