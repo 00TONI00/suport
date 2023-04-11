@@ -1,32 +1,5 @@
-#suport
+.caixa-1 
 {
-    flex: 1;
-    width: 50%;
-    height: 50%;
-    padding: 0;
-    margin: 0;
-    background-size: cover;
-    background-position: center;
-}
-suport-suport
-{
-    display: flex;
-    flex-direction: column;
-    padding: 10px;
-    flex: 1;
-    justify-content: center;
-    align-items: center;
-    font-size: 20px;
-    text-align: center;
-}
-
-
-
-
-
-
-
-.caja3 {
     width: 50%;
     height: 100vh;
     position: absolute;
@@ -36,8 +9,8 @@ suport-suport
     background-size: cover;
     background-position: center;
   }
-  
-  .imagen {
+  .imagen 
+  {
     width: 100%;
     height: 100%;
   }
