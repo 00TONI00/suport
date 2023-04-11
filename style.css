@@ -1,6 +1,7 @@
-.body
+*
 {
-    background-color: lightslategrey;
+  margin: 0px;
+  padding: 0px;
 }
 
 .caixa-1 
