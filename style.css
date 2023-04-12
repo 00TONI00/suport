@@ -3,7 +3,7 @@ section
   margin: -44px;
   background-color: lightslategrey;
   width: 1402px;
-  height: 586px;
+  height: 590px;
 }
 
 .caixa-1 
@@ -17,11 +17,13 @@ section
     background-size: cover;
     background-position: center;
   }
+
   .imagen 
   {
     width: 683px;
     height: 586px;
   }
+
   .caixa-2
   {
     padding-left: 53%;
