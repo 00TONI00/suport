@@ -18,12 +18,16 @@ section
     background-size: cover;
     background-position: center;
   }
-
   .imagen 
   {
     width: 683px;
     height: 586px;
   }
+  #pluja
+  {
+    width: 50%;
+    height: 50%;
+    }
 
   .caixa-2
   {
