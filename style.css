@@ -1,9 +1,7 @@
 section
 {
   margin: 0px;
-  padding: 0px;
   background-color: lightslategrey;
-
 }
 
 .caixa-1 
@@ -25,7 +23,7 @@ section
   .caixa-2
   {
     padding-left: 53%;
-    font-size: 38px;
+    font-size: 46px;
   }
   
   
