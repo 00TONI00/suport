@@ -9,19 +9,7 @@ section
 
 .caixa-1 
 {
-    width: 683px;
-    height: 586px;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul4pYCfLcke16uGg15EO6szsZeIqflPVXNQ&usqp=CAU');
-    background-size: cover;
-    background-position: center;
-  }
-  .imagen 
-  {
-    width: 683px;
-    height: 586px;
+
   }
   #pluja
   {
