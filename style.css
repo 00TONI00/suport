@@ -1,9 +1,10 @@
 section
 {
-  margin: -44px;
   background-color: lightslategrey;
-  width: 1402px;
-  height: 622px;
+  width: 100%;
+  height: 100vh;
+  margin: -8px;
+  padding: 0px;
 }
 
 /*.caixa-1 
