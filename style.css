@@ -7,18 +7,18 @@ section
   padding: 0px;
 }
 
-  #pluja
-  {
-    float: inline-end;
-    width: 60%;
-    height: 100%;
-  }
+#pluja
+{
+  float: inline-end;
+  width: 60%;
+  height: 100%;
+}
 
-  .caixa
-  {
-    padding-top: 10%;
-    padding-left: 5%;
-    font-size: 221%;
-  }
+.caixa
+{
+  padding-top: 10%;
+  padding-left: 5%;
+  font-size: 221%;
+}
  
   
