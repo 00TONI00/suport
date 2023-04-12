@@ -9,9 +9,10 @@ section
 
   #pluja
   {
-    width: 50%;
-    height: 50%;
-    }
+    float: inline-end;
+    width: 60%;
+    height: 100%;
+  }
 
   .caixa
   {
